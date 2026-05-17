@@ -157,7 +157,7 @@ This tool is for authorized security testing only. Users are responsible for com
 
 ## Enterprise Support
 
-[![HailBytes - Managed Attack Surface Management](https://www.hailbytes.com/hubfs/HailBytes-GitHub-Enterprise-Banner.png)](https://www.hailbytes.com/asm?utm_source=github&utm_medium=repo_readme&utm_campaign=rengine-burp-integration&utm_content=enterprise_banner)
+[![HailBytes - Managed Attack Surface Management](https://hailbytes.com/images/icons/hb_hb_white_horizontal.png)](https://www.hailbytes.com/asm?utm_source=github&utm_medium=repo_readme&utm_campaign=rengine-burp-integration&utm_content=enterprise_banner)
 
 Need managed attack surface management without the operational overhead? **HailBytes ASM** delivers BYOC-deployed reNgine with enterprise support, on AWS and Azure Marketplaces.
 
