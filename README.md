@@ -70,7 +70,7 @@ python3 rengine_dashboard_burp_integration.py https://rengine.company.com hailby
 ## Command Line Options
 
 | Option | Description | Default |
-|--------|-------------|---------|
+|--------|-------------|--------|
 | `rengine_url` | reNgine dashboard URL | Required |
 | `project_slug` | reNgine project slug | Required |
 | `scan_id` | Scan ID to export | Required |
@@ -152,3 +152,13 @@ Join our Discord community for questions, discussions, and community support: [H
 ## Disclaimer
 
 This tool is for authorized security testing only. Users are responsible for complying with applicable laws and regulations.
+
+---
+
+## Enterprise Support
+
+[![HailBytes - Managed Attack Surface Management](https://hailbytes.com/images/icons/hb_hb_white_horizontal.png)](https://www.hailbytes.com/asm?utm_source=github&utm_medium=repo_readme&utm_campaign=rengine-burp-integration&utm_content=enterprise_banner)
+
+Need managed attack surface management without the operational overhead? **HailBytes ASM** delivers BYOC-deployed reNgine with enterprise support, on AWS and Azure Marketplaces.
+
+[**Get Enterprise Support →**](https://www.hailbytes.com/asm?utm_source=github&utm_medium=repo_readme&utm_campaign=rengine-burp-integration&utm_content=enterprise_banner)
